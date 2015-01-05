@@ -1,4 +1,4 @@
 spark-thesis
 ============
 
-spark programs 
+Miscellaneous programs for Apache Spark used for my thesis
