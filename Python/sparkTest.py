@@ -1,8 +1,3 @@
-'''
-Created on Dec 22, 2014
-
-@author: greg
-'''
 from pyspark import SparkContext,SparkConf
 from operator import add
 
